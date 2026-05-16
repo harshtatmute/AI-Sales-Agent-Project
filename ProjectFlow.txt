@@ -1,0 +1,11 @@
+-- 10 days Project Work Flow --
+
+Days 1-2: Infrastructure (GitHub, Ollama, Environment) — You are almost done with this!
+
+Days 3-4: Data Engineering & Exploratory Data Analysis (EDA).
+
+Days 5-6: Machine Learning Model Building & Evaluation.
+
+Days 7-8: Integrating the AI Agent (Phidata + Ollama).
+
+Days 9-10: Building the Streamlit UI and Final Documentation.
