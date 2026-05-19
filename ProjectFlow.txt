@@ -4,8 +4,8 @@ Days 1-2: Infrastructure (GitHub, Ollama, Environment) — You are almost done w
 
 Days 3-4: Data Engineering & Exploratory Data Analysis (EDA).
 
-Days 5-6: Machine Learning Model Building & Evaluation.  --- 18
+Days 5-6: Machine Learning Model Building & Evaluation.  --- 19
 
-Days 7-8: Integrating the AI Agent (Phidata + Ollama).   --- 19
+Days 7-8: Integrating the AI Agent (Phidata + Ollama).   --- 20
 
-Days 9-10: Building the Streamlit UI and Final Documentation.   --- 20
+Days 9-10: Building the Streamlit UI and Final Documentation.   --- 21
