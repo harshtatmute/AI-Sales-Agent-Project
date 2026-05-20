@@ -4,8 +4,26 @@ Days 1-2: Infrastructure (GitHub, Ollama, Environment) — You are almost done w
 
 Days 3-4: Data Engineering & Exploratory Data Analysis (EDA).
 
-Days 5-6: Machine Learning Model Building & Evaluation.  --- 19
+Days 5-6: Machine Learning Model Building & Evaluation.  
 
-Days 7-8: Integrating the AI Agent (Phidata + Ollama).   --- 20
+Days 7-8: Integrating the AI Agent (Phidata + Ollama).   
 
-Days 9-10: Building the Streamlit UI and Final Documentation.   --- 21
+Days 9-10: Building the Streamlit UI and Final Documentation.   
+
+
+🕒 Day 4 : Model Evaluation & Score Generation
+We will check how well our model performs on the unseen test data (Accuracy, Precision, Recall).
+
+We will extract the probability scores from the model and map them to a clean Lead Score from 0 to 100 for every customer.
+
+🕒 Day 5: Integrating the Agentic AI (Ollama + Phidata)
+We will write a Python script that connects to your local Llama 3 engine.
+
+We will build an AI Agent using Phidata that automatically looks at the high-scoring leads (e.g., score > 80) and writes custom, personalized sales emails based on their profile data.
+
+🕒 Day 6: The Streamlit Dashboard UI & Final Sync
+We will build a beautiful, interactive front-end web app using Streamlit.
+
+You will be able to upload a CSV file or move sliders to change a lead's data and see their Lead Score and AI email update live on screen.
+
+Final GitHub push to make your resume entries 100% active and live.
